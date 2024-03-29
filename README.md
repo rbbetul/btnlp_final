@@ -1,5 +1,7 @@
 # btnlp_final
 
+Ruveyda Betül Bahceci and Yu-Ci Chen
+
 ## Sentiment Analysis
 
 Sentiment analysis is the process of extracting opinions and emotions from textual data, and classifying them in different classes such as positive, negative, or neutral. 
