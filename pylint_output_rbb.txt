@@ -1,0 +1,21 @@
+************* Module application_final_rbb
+application_final_rbb.py:403:0: C0304: Final newline missing (missing-final-newline)
+application_final_rbb.py:41:0: W0105: String statement has no effect (pointless-string-statement)
+application_final_rbb.py:216:0: C0115: Missing class docstring (missing-class-docstring)
+application_final_rbb.py:223:4: C0116: Missing function or method docstring (missing-function-docstring)
+application_final_rbb.py:242:8: W0621: Redefining name 'pre_df' from outer scope (line 56) (redefined-outer-name)
+application_final_rbb.py:247:8: W0621: Redefining name 'missing_values' from outer scope (line 65) (redefined-outer-name)
+application_final_rbb.py:258:47: W0108: Lambda may not be necessary (unnecessary-lambda)
+application_final_rbb.py:247:8: W0612: Unused variable 'missing_values' (unused-variable)
+application_final_rbb.py:271:8: C0103: Variable name "X" doesn't conform to snake_case naming style (invalid-name)
+application_final_rbb.py:271:8: W0612: Unused variable 'X' (unused-variable)
+application_final_rbb.py:224:8: W0201: Attribute 'data' defined outside __init__ (attribute-defined-outside-init)
+application_final_rbb.py:263:8: W0201: Attribute 'data' defined outside __init__ (attribute-defined-outside-init)
+application_final_rbb.py:305:0: W0105: String statement has no effect (pointless-string-statement)
+application_final_rbb.py:311:4: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+application_final_rbb.py:396:0: E1123: Unexpected keyword argument 'title' in method call (unexpected-keyword-arg)
+application_final_rbb.py:16:0: W0611: Unused import ast (unused-import)
+application_final_rbb.py:18:0: W0611: Unused Path imported from pathlib (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 8.91/10 (previous run: 7.01/10, +1.91)
