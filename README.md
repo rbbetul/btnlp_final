@@ -1,6 +1,6 @@
-# btnlp_final
+# Tools for NLP Final Project
 
-Ruveyda Betül Bahceci and Yu-Ci Chen
+by Ruveyda Betül Bahceci and Yu-Ci Chen
 
 ## Sentiment Analysis
 
